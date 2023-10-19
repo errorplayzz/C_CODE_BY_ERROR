@@ -1,1 +1,3 @@
 # C_CODE_BY_ERROR
+
+Beleive in Your Code Becouse Errors Makes You Doubt.........
